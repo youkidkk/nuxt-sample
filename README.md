@@ -1,6 +1,8 @@
 # nuxt-sample
 
-## Initialize
+Nuxt.js のサンプル
+
+## Nuxt.js の初期設定
 
 ```shell
 $ npx create-nuxt-app nuxt-sample
@@ -16,21 +18,7 @@ $ npx create-nuxt-app nuxt-sample
 ? Choose development tools jsconfig.json (Recommended for VS Code)
 ```
 
-## Build Setup
+## VSCode でのデバッグ
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+1. タスク：npm: dev を実行
+2. 実行構成：Launch Chrome を実行
